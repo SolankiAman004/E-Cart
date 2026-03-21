@@ -66,3 +66,30 @@ This project helped me understand:
 
 ## 📂 Project Structure
 
+src/
+├── components/
+├── redux/
+│ ├── slice.js
+│ ├── store.js
+├── pages/
+├── App.jsx
+└── main.jsx
+
+
+---
+
+## ⚙️ Installation & Setup
+
+```bash
+# Clone the repository
+git clone https://github.com/SolankiAman004/E-Cart.git
+
+# Navigate to project
+cd E-Cart
+
+# Install dependencies
+npm install
+
+# Run development server
+npm run dev
+
