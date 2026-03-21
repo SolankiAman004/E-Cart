@@ -61,21 +61,6 @@ This project helped me understand:
 - **State Management:** Redux Toolkit  
 - **Build Tool:** Vite  
 - **API:** DummyJSON API  
-
----
-
-## 📂 Project Structure
-
-src/
-├── components/
-├── redux/
-│ ├── slice.js
-│ ├── store.js
-├── pages/
-├── App.jsx
-└── main.jsx
-
-
 ---
 
 ## ⚙️ Installation & Setup
